@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kov191104/Portfolio-Website-1](https://github.com/kov191104/Portfolio-Website-1)
+- 👨‍💻 All of my projects are available at [https://github.com/kov191104/](https://github.com/kov191104/)
 
 - 📫 How to reach me **k.kov1917@gmail.com**
 
