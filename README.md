@@ -1,19 +1,12 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Kovarthana+K;Data+Science+Student+📊;Machine+Learning+Explorer+🤖;Always+learning+new+things!+🚀" alt="Typing SVG" />
-</h1>
-
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
----
+<!-- Profile Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Hi,%20I'm%20Kovarthana%20K%20👩‍💻&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
 ## 🌸 About Me  
-💻 Data Science Enthusiast | 📍 India  
-🧠 Exploring **AI, Machine Learning, and NLP**  
-🚀 Building cool projects with **MERN & Python**  
-🌱 Learning **Deep Learning & Cloud**  
-🎯 Fun fact: *I love mixing data with creativity!*  
+🎓 Data Science Student | 📍 India  
+💡 Passionate about Machine Learning, AI, and Data-Driven Solutions  
+🌱 Currently learning **Deep Learning & NLP**  
+📂 Check out my projects → [GitHub Portfolio](https://github.com/kov191104)  
+📧 Reach me at → **k.kov1917@gmail.com**  
 
 ---
 
@@ -30,7 +23,7 @@
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,react,angular,js,html,css,c,matlab,pandas,seaborn,tensorflow,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,react,angular,js,html,css,c,matlab,pandas,seaborn" />
 </p>
 
 ---
@@ -54,49 +47,8 @@
 
 ---
 
-## 📌 Featured Projects  
-<p align="center">
-  <a href="https://github.com/kov191104/Data-Driven-Resume-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kov191104&repo=Data-Driven-Resume-Analyzer&theme=radical" />
-  </a>
-  <a href="https://github.com/kov191104/LiDAR-Distortion-Correction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kov191104&repo=LiDAR-Distortion-Correction&theme=radical" />
-  </a>
-</p>
-
----
-
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kov191104&theme=react-dark&bg_color=0D1117&hide_border=true&line=6A0DAD&point=FFFFFF" />
-</p>
-
----
-
-## 🎶 My Vibes  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ympg6f53x5o6s6g2&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6A0DAD&bar_color_cover=false" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kov191104/kov191104/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📅 What I'm Up To  
-✔️ Contributing to **ML/DL open-source projects**  
-✔️ Preparing for **Hackathons & Internships**  
-✔️ Expanding knowledge in **Data Science & AI**  
-✔️ Writing technical blogs soon ✍️  
-
----
-
 ## 🔮 Fun Section  
-💡 *“Data is like sunlight, the more you expose it, the brighter your insights.”*  
+💡 *"Data is the new oil, but insight is the spark that lights it up."*  
 
 📈 Visitor Count → ![Visitor Count](https://komarev.com/ghpvc/?username=kov191104&label=Views&color=6A0DAD)  
 
