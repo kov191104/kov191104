@@ -1,22 +1,19 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Kovarthana+K;Data+Science+Student+%7C+AI+Explorer;Hackathon+Lover+%7C+Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Kovarthana+K;Data+Science+Student+📊;Machine+Learning+Explorer+🤖;Always+learning+new+things!+🚀" alt="Typing SVG" />
 </h1>
 
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ---
 
 ## 🌸 About Me  
-🎓 Data Science Student @ **Dayananda Sagar University**  
-🧠 Passionate about **Machine Learning, NLP & AI for real-world problems**  
-🚀 Hackathon Enthusiast | 💡 Creative Data Storyteller  
-🌱 Currently working on:  
-   - 🩸 **Fingerprint-Based Blood Group Prediction** (87% accuracy)  
-   - 🌪️ **LiDAR Signal Distortion Correction for Autonomous Vehicles & Drones**  
-   - 🎭 **Emotion Detection (Facial + Audio + Physiological Signals)**  
-💌 Reach me → **k.kov1917@gmail.com**  
+💻 Data Science Enthusiast | 📍 India  
+🧠 Exploring **AI, Machine Learning, and NLP**  
+🚀 Building cool projects with **MERN & Python**  
+🌱 Learning **Deep Learning & Cloud**  
+🎯 Fun fact: *I love mixing data with creativity!*  
 
 ---
 
@@ -31,9 +28,9 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,react,angular,js,html,css,c,matlab,pandas,seaborn,tensorflow,git,github,vscode,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,react,angular,js,html,css,c,matlab,pandas,seaborn,tensorflow,git,github,vscode" />
 </p>
 
 ---
@@ -59,6 +56,9 @@
 
 ## 📌 Featured Projects  
 <p align="center">
+  <a href="https://github.com/kov191104/Data-Driven-Resume-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kov191104&repo=Data-Driven-Resume-Analyzer&theme=radical" />
+  </a>
   <a href="https://github.com/kov191104/LiDAR-Distortion-Correction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kov191104&repo=LiDAR-Distortion-Correction&theme=radical" />
   </a>
@@ -88,10 +88,10 @@
 ---
 
 ## 📅 What I'm Up To  
-✔️ Refining **Blood Group Classification Model (87% → higher)**  
-✔️ Training **DL model for LiDAR correction** (autonomous vehicles & drones)  
-✔️ Exploring **Emotion Detection & Audio Steganography**  
-✔️ Preparing for **Hackathons & Internship 2026 batch**  
+✔️ Contributing to **ML/DL open-source projects**  
+✔️ Preparing for **Hackathons & Internships**  
+✔️ Expanding knowledge in **Data Science & AI**  
+✔️ Writing technical blogs soon ✍️  
 
 ---
 
