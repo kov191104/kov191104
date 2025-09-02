@@ -1,60 +1,18 @@
-<!-- Profile Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Hi,%20I'm%20Kovarthana%20K%20👩‍💻&fontSize=40&fontColor=ffffff&animation=twinkling" />
+# 💫 About Me:
+🔭 I’m currently working on Agentic AI<br>👯 I’m looking to collaborate on Gen AI Projects<br>
 
-## 🌸 About Me  
-🎓 Data Science Student | 📍 India  
-💡 Passionate about Machine Learning, AI, and Data-Driven Solutions  
-🌱 Currently learning **Deep Learning & NLP**  
-📂 Check out my projects → [GitHub Portfolio](https://github.com/kov191104)  
-📧 Reach me at → **k.kov1917@gmail.com**  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kovarthanak/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k.kov1917@gmail.com) 
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/kovarthanak"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/kovarthana"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://instagram.com/_kov.19_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/k_kov1917"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/kovarthanak"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kov191104&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kov191104&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kov191104&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=kov191104&icon=7&color=4)](https://visitcount.itsvg.in)
 
-## 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,react,angular,js,html,css,c,matlab,pandas,seaborn" />
-</p>
-
----
-
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kov191104&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kov191104&layout=compact&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kov191104&theme=radical" height="180"/>
-</p>
-
----
-
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kov191104&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🔮 Fun Section  
-💡 *"Data is the new oil, but insight is the spark that lights it up."*  
-
-📈 Visitor Count → ![Visitor Count](https://komarev.com/ghpvc/?username=kov191104&label=Views&color=6A0DAD)  
-
-🎯 Random Dev Quote:  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
